@@ -12,3 +12,6 @@
   * `npx prisma init --datasource-provider SQLite`
   * `npx prisma migrate dev`
 * `npm i @fastify/cors`
+
+## Frontend
+* `npm create vite@latest`
